@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "chef1.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 20,
+      "likes": 1500
+    },
+    {
+      "id": 2,
+      "chefPicture": "chef2.jpg",
+      "chefName": "Sarah Johnson",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 15,
+      "likes": 1200
+    },
+    {
+      "id": 3,
+      "chefPicture": "chef3.jpg",
+      "chefName": "Michael Davis",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 25,
+      "likes": 2000
+    },
+    {
+      "id": 4,
+      "chefPicture": "chef4.jpg",
+      "chefName": "Emily Thompson",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 18,
+      "likes": 1700
+    },
+    {
+      "id": 5,
+      "chefPicture": "chef5.jpg",
+      "chefName": "David Wilson",
+      "yearsOfExperience": 6,
+      "numberOfRecipes": 10,
+      "likes": 900
+    },
+    {
+      "id": 6,
+      "chefPicture": "chef6.jpg",
+      "chefName": "Jennifer Anderson",
+      "yearsOfExperience": 9,
+      "numberOfRecipes": 14,
+      "likes": 1100
+    }
+  ]
+  
