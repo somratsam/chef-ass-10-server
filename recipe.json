@@ -1,0 +1,49 @@
+{
+    "featuredRecipes": [
+      {
+        "id": 1,
+        "title": "Classic Spaghetti Bolognese",
+        "image": "https://i.ibb.co/94sXTzx/Classic-Spaghetti-Bolognese.jpg",
+        "description": "A delicious and hearty Italian pasta dish with a rich meaty sauce.",
+        "viewRecipeUrl": "https://example.com/recipes/spaghetti-bolognese"
+      },
+      {
+        "id": 2,
+        "title": "Lemon Garlic Shrimp",
+        "image": "https://i.ibb.co/NL6V973/Lemon-Garlic-Shrimp.jpg",
+        "description": "A quick and flavorful seafood recipe with a tangy lemon and garlic marinade.",
+        "viewRecipeUrl": "https://example.com/recipes/lemon-garlic-shrimp"
+      },
+      {
+        "id": 3,
+        "title": "Chocolate Chip Cookies",
+        "image": "https://i.ibb.co/mb60hSN/Chocolate-Chip-Cookies.jpg",
+        "description": "Homemade cookies with gooey chocolate chips, perfect for dessert or snacking.",
+        "viewRecipeUrl": "https://example.com/recipes/chocolate-chip-cookies"
+      }
+    ],
+    "chefTipsAndTricks": [
+      {
+        "id": 1,
+        "title": "Mastering Knife Skills",
+        "image": "https://example.com/images/knife-skills.jpg",
+        "description": "Learn essential knife skills for chopping, dicing, and slicing like a pro chef.",
+        "source": "Chef John Doe"
+      },
+      {
+        "id": 2,
+        "title": "Secrets of Flavor Pairing",
+        "image": "https://example.com/images/flavor-pairing.jpg",
+        "description": "Discover the art of combining ingredients to create harmonious flavor profiles.",
+        "source": "Chef Jane Smith"
+      },
+      {
+        "id": 3,
+        "title": "Quick Kitchen Hacks",
+        "image": "https://example.com/images/kitchen-hacks.jpg",
+        "description": "Time-saving tips and tricks to streamline your cooking and meal preparation.",
+        "source": "Chef Alex Johnson"
+      }
+    ]
+  }
+  
