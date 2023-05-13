@@ -1,57 +1,146 @@
 [
     {
-      "id": 1,
-      "chefPicture": "https://i.ibb.co/Ctz5Z7w/chef2.jpg",
-      "chefName": "John Smith",
-      "yearsOfExperience": 10,
-      "numberOfRecipes": 20,
-      "likes": 1500,
-      "description": "A talented culinary expert with a passion for creating delicious and visually stunning dishes. John has 10 years of experience, crafting a collection of 20 amazing recipes that have garnered 1500 likes from food enthusiasts."
+        "id": 1,
+        "chefPicture": "https://i.ibb.co/Ctz5Z7w/chef2.jpg",
+        "chefName": "John Smith",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 20,
+        "likes": 1500,
+        "description": "A talented culinary expert with a passion for creating delicious and visually stunning dishes. John has 10 years of experience, crafting a collection of 20 amazing recipes that have garnered 1500 likes from food enthusiasts.",
+        "recipeName": [
+            "Roasted Chicken",
+            "Pasta Carbonara",
+            "Chocolate Cake"
+        ],
+        "ingredients": [
+            "Whole chicken",
+            "Olive oil",
+            "Salt",
+            "Pepper",
+            "Rosemary"
+        ],
+        "cookingMethod": "1. Preheat the oven to 425°F.\n2. Rub the chicken with olive oil, salt, pepper, and rosemary.\n3. Place the chicken on a roasting pan.\n4. Roast for 1 hour or until the internal temperature reaches 165°F.\n5. Let it rest for 10 minutes before serving.",
+        "rating": 4,
+        "favorite": false
     },
     {
-      "id": 2,
-      "chefPicture": "https://i.ibb.co/fn8myjk/chef1.jpg",
-      "chefName": "Sarah Johnson",
-      "yearsOfExperience": 8,
-      "numberOfRecipes": 15,
-      "likes": 1200,
-      "description": "Sarah is known for her exceptional culinary skills and innovative approach to cooking. With 8 years of experience, she has crafted 15 outstanding recipes that have received 1200 likes, captivating the taste buds of many."
+        "id": 2,
+        "chefPicture": "https://i.ibb.co/fn8myjk/chef1.jpg",
+        "chefName": "Sarah Johnson",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 15,
+        "likes": 1200,
+        "description": "Sarah is known for her exceptional culinary skills and innovative approach to cooking. With 8 years of experience, she has crafted 15 outstanding recipes that have received 1200 likes, captivating the taste buds of many.",
+        "recipeName": [
+            "Spaghetti Bolognese",
+            "Garlic Butter Shrimp",
+            "Tiramisu"
+        ],
+        "ingredients": [
+            "Spaghetti",
+            "Ground beef",
+            "Tomato sauce",
+            "Onion",
+            "Garlic"
+        ],
+        "cookingMethod": "1. Cook the spaghetti according to package instructions.\n2. In a skillet, cook the ground beef, onion, and garlic until browned.\n3. Add tomato sauce and simmer for 15 minutes.\n4. Serve the bolognese sauce over cooked spaghetti.\n5. Garnish with grated Parmesan cheese and fresh basil leaves.",
+        "rating": 5,
+        "favorite": true
     },
     {
-      "id": 3,
-      "chefPicture": "https://i.ibb.co/pf16gQT/chef3.jpg",
-      "chefName": "Michael Davis",
-      "yearsOfExperience": 15,
-      "numberOfRecipes": 25,
-      "likes": 2000,
-      "description": "Michael is a seasoned chef with 15 years of culinary expertise. He delights in creating extraordinary dishes and has curated a collection of 25 remarkable recipes that have earned 2000 likes."
+        "id": 3,
+        "chefPicture": "https://i.ibb.co/pf16gQT/chef3.jpg",
+        "chefName": "Michael Davis",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 25,
+        "likes": 2000,
+        "description": "Michael is a seasoned chef with 15 years of culinary expertise. He delights in creating extraordinary dishes and has curated a collection of 25 remarkable recipes that have earned 2000 likes.",
+        "recipeName": [
+            "Grilled Salmon",
+            "Caprese Salad",
+            "Molten Lava Cake"
+        ],
+        "ingredients": [
+            "Salmon fillets",
+            "Lemon",
+            "Olive oil",
+            "Salt",
+            "Black pepper"
+        ],
+        "cookingMethod": "1. Preheat the grill to medium-high heat.\n2. Season the salmon fillets with salt, pepper, and drizzle with olive oil.\n3. Grill the salmon for 4-5 minutes per side or until cooked through.\n4. Squeeze fresh lemon juice over the grilled salmon before serving.",
+        "rating": 4,
+        "favorite": false
     },
     {
-      "id": 4,
-      "chefPicture": "https://i.ibb.co/9w3GMMt/chef4.jpg",
-      "chefName": "Emily Thompson",
-      "yearsOfExperience": 12,
-      "numberOfRecipes": 18,
-      "likes": 1700,
-      "description": "Emily is a skilled chef who brings creativity and passion to her cooking. With 12 years of experience, she has developed 18 exceptional recipes that have garnered 1700 likes from food enthusiasts."
+        "id": 4,
+        "chefPicture": "https://i.ibb.co/9w3GMMt/chef4.jpg",
+        "chefName": "Emily Thompson",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 18,
+        "likes": 1700,
+        "description": "Emily is a skilled chef who brings creativity and passion to her cooking. With 12 years of experience, she has developed 18 exceptional recipes that have garnered 1700 likes from food enthusiasts.",
+        "recipeName": [
+            "Grilled Chicken Salad",
+            "Beef Stir-Fry",
+            "Berry Cheesecake"
+        ],
+        "ingredients": [
+            "Chicken breast",
+            "Lettuce",
+            "Tomatoes",
+            "Cucumbers",
+            "Red onion"
+        ],
+        "cookingMethod": "1. Season the chicken breast with salt and pepper.\n2. Grill the chicken until cooked through.\n3. Slice the grilled chicken and set aside.\n4. In a large bowl, combine lettuce, tomatoes, cucumbers, and red onion.\n5. Add the sliced grilled chicken on top.\n6. Serve the salad with your favorite dressing.",
+        "rating": 4,
+        "favorite": true
     },
     {
-      "id": 5,
-      "chefPicture": "https://i.ibb.co/vsPydn9/chef5.jpg",
-      "chefName": "David Wilson",
-      "yearsOfExperience": 6,
-      "numberOfRecipes": 10,
-      "likes": 900,
-      "description": "David is a talented chef with a flair for creating unique and flavorful dishes. Despite his 6 years of experience, he has already crafted an impressive collection of 10 delicious recipes that have received 900 likes."
+        "id": 5,
+        "chefPicture": "https://i.ibb.co/vsPydn9/chef5.jpg",
+        "chefName": "David Wilson",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 10,
+        "likes": 900,
+        "description": "David is a talented chef with a flair for creating unique and flavorful dishes. Despite his 6 years of experience, he has already crafted an impressive collection of 10 delicious recipes that have received 900 likes.",
+        "recipeName": [
+            "BBQ Ribs",
+            "Mashed Potatoes",
+            "Apple Pie"
+        ],
+        "ingredients": [
+            "Pork ribs",
+            "BBQ sauce",
+            "Potatoes",
+            "Butter",
+            "Milk"
+        ],
+        "cookingMethod": "1. Preheat the oven to 300°F.\n2. Season the pork ribs with salt and pepper.\n3. Place the ribs on a baking sheet and brush with BBQ sauce.\n4. Bake the ribs for 2-3 hours until tender.\n5. Boil the potatoes until soft.\n6. Mash the potatoes with butter and milk until smooth.\n7. Serve the BBQ ribs with mashed potatoes and a side of apple pie.",
+        "rating": 3,
+        "favorite": false
     },
     {
-      "id": 6,
-      "chefPicture": "https://i.ibb.co/Kqy9cQ9/chef6.jpg",
-      "chefName": "James Anderson",
-      "yearsOfExperience": 9,
-      "numberOfRecipes": 14,
-      "likes": 1100,
-      "description": "James is a skilled chef known for his culinary expertise and attention to detail. With 9 years of experience, he has curated a collection of 14 exceptional recipes that have garnered 1100 likes from food enthusiasts."
+        "id": 6,
+        "chefPicture": "https://i.ibb.co/Kqy9cQ9/chef6.jpg",
+        "chefName": "James Anderson",
+        "yearsOfExperience": 9,
+        "numberOfRecipes": 14,
+        "likes": 1100,
+        "description": "James is a skilled chef known for his culinary expertise and attention to detail. With 9 years of experience, he has curated a collection of 14 exceptional recipes that have garnered 1100 likes from food enthusiasts.",
+        "recipeName": [
+            "Steak with Chimichurri Sauce",
+            "Quinoa Salad",
+            "Lemon Bars"
+        ],
+        "ingredients": [
+            "Steak",
+            "Garlic",
+            "Parsley",
+            "Red wine vinegar",
+            "Olive oil"
+        ],
+        "cookingMethod": "1. Season the steak with salt, pepper, and garlic.\n2. Grill the steak to your desired doneness.\n3. In a blender, combine garlic, parsley, red wine vinegar, and olive oil.\n4. Blend until smooth to create the chimichurri sauce.\n5. Let the steak rest for a few minutes before slicing.\n6. Serve the sliced steak with a drizzle of chimichurri sauce.\n7. For the quinoa salad, cook quinoa according to package instructions and let it cool.\n8. In a bowl, combine cooked quinoa, diced vegetables, and a dressing of your choice.\n9. Toss well and serve as a refreshing side dish.\n10. For the lemon bars, mix lemon juice, zest, eggs, sugar, and flour in a bowl.\n11. Pour the mixture into a baking dish and bake until set.\n12. Let it cool, then cut into bars and dust with powdered sugar.",
+        "rating": 4,
+        "favorite": false
     }
-  ]
-  
+]
